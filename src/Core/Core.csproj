@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>D4Bot.Core</RootNamespace>
+    <AssemblyName>D4Bot.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
